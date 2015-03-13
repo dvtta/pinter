@@ -1,5 +1,5 @@
-Hello,
+# Pinter
 
-This is my first Ruby project.
+Home based Pinterest.
 
-Learning more.
+Yo!
